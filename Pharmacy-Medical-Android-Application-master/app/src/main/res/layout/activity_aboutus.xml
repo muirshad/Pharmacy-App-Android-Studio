@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".aboutus">
+
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="649dp"
+        android:text="A pharmacy was always more than just a place to get your prescription. Patients treated pharmacists as consultants, someone to help them choose an over-the-counter medicine or make sense of a prescription’s dosage and instructions. Always happy to oblige, they rarely had enough information about a person’s medical history, allergies, or treatment plans to give more complete ...@mui_pharmacy"
+        android:textColor="@color/Red"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+</LinearLayout>
